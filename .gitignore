@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore Visual Studio Code directories
+.vscode/
+
+# Ignore specific VS Code workspace files
+*.code-workspace
