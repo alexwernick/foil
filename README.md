@@ -22,13 +22,13 @@ This project implements the FOIL (First-Order Inductive Learner) algorithm, a cl
 
 ## Installation
 
-To install the project, you need to have Python 3.7+ and Poetry installed. Follow these steps:
+To install the project, you need to have Python 3.12+ and Poetry installed. Follow these steps:
 
 1.  Clone the repository:
 
     ```bash
-    git clone <repository_url>
-    cd <project_directory>
+    git clone https://github.com/alexwernick/foil.git
+    cd foil
     ```
 
 2.  Install dependencies using Poetry:
